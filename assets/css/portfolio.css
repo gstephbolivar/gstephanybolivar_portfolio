@@ -6,6 +6,10 @@
   font-weight: 800px;
 }
 
+.card-title{
+  text-align: center;
+}
+
 footer {
   background-color: black;
 }
