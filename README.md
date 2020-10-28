@@ -23,7 +23,7 @@ Happy editing!
 
 This [website] (https://gstephbolivar.github.io/gstephanybolivar_portfolio/) allows for possible future clients to see my work as a web developer in the portfolio page. The 'About Me' page allows for the client to learn more about me and finally, the contact page allows for the user to reach out to me with any inquiries about my work and possible future hire. 
 
-![Portfolio](<iframe src="https://drive.google.com/file/d/1WGiaSbnM6VzhWG6Q9fHVP80TMeFBzGWA/preview" width="640" height="480"></iframe>)
+![Portfolio](images/portfolio.gif)
 
 
 ## Credits
