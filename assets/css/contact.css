@@ -1,0 +1,31 @@
+.container {
+  padding: 50px;
+  text-align: center;
+  color: black;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.contact-info {
+  text-align: right;
+}
+
+/* Set standards for tablets */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 78%;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: 41px;
+  }
+}
+
+/* Set standards for phones */
+@media screen and (max-width: 400px) {
+  .container {
+    width: 90%;
+    margin-left: 7px;
+    padding-left: 15px;
+  }
+}

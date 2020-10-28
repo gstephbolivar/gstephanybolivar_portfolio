@@ -1,0 +1,39 @@
+/* This page is the root for all html styling */
+
+/* Standarized background image */
+body {
+  background-image: url("../../images/lightbulb.png");
+  background-repeat: repeat;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+h1 {
+  color: teal;
+  font-weight: 300px;
+}
+/* Navbar across all html will look the same */
+.navbar-light .navbar-brand {
+  color: black;
+  background-color: teal;
+  font-family: "Lobster", cursive;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+/* All main containers will have the margin top */
+.container {
+  margin-top: 50px;
+}
+
+footer {
+  text-align: center;
+  border-top: teal solid 5px;
+  background-color: transparent;
+  color: white;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: sticky;
+}

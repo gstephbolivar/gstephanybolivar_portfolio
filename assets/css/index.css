@@ -1,0 +1,39 @@
+.container {
+  margin-left: 125px;
+}
+
+.display-4 {
+  font-weight: 800px;
+  color: teal;
+  text-align: center;
+}
+
+.headshot {
+  padding-right: 10px;
+  align: left;
+}
+
+p {
+  font-family: 'Kumbh Sans', sans-serif;
+  color: white;
+  font-size: large;
+}
+/* Set standards for tablets */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 78%;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: 41px;
+  }
+}
+
+/* Set standards for phones */
+@media screen and (max-width: 400px) {
+  .container {
+    width: 90%;
+    margin-top: 100px;
+    margin-left: 27px;
+  }
+}
